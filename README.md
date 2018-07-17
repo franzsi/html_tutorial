@@ -31,13 +31,13 @@ A html tagekről tudni kell, hogy általában van egy nyitó, és egy záróelem
 
 A link tagben a ./style.css az egy hivatkozás a style.scs fájlodra. A ./ része az azt jelenti, hogy "ugyanebben a mappában"- ez a relatív fájlelérési út.
 
-A <head></head> tagek közt ún. metainformációk vannak, amik közvetlenül nem láthatóak, de az oldal működése szempontjából fontosak. Ilyen pl. a sytle.css stílus lapra mutató <link> tag.
+A head tagek közt ún. metainformációk vannak, amik közvetlenül nem láthatóak, de az oldal működése szempontjából fontosak. Ilyen pl. a sytle.css stílus lapra mutató <link> tag.
 
-A <body></body> tagek között van minden szemmel látható tartalom.
+A body tagek között van minden szemmel látható tartalom.
 
-Próbáld meg, hogy a <h1></h1> közé beírsz bármit, elmented a fájlt, és utána megnyitod dupla klikkel böngészőben (ha már meg van nyitva, akkor csak frissíts rajta egyet).
+Próbáld meg, hogy a h1 tagek közé beírsz bármit, elmented a fájlt, és utána megnyitod dupla klikkel böngészőben (ha már meg van nyitva, akkor csak frissíts rajta egyet).
 
-A <h1></h1> tag egy főcím tag, ezért nagy betűmérettel látható, amit a tagek közé írtál.
+A h1 tag egy főcím tag, ezért nagy betűmérettel látható, amit a tagek közé írtál.
 
 ## css fájl tartalma
 
