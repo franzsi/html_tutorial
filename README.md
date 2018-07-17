@@ -17,13 +17,15 @@ Ezután csinálj egy másik fájlt is, és nevezd el style.css-nek.
 
 A html fájlban ennek mindenképp benne kell lennie:
 
-><!DOCTYPE html>
-><head>
->  <link rel="stylesheet" href="./style.css">  
-></head>
-><body>
->  <h1></h1>
-></body>
+```html
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="./style.css">  
+</head>
+<body>
+  <h1></h1>
+</body>
+```
 
 A html tagekről tudni kell, hogy általában van egy nyitó, és egy záróelem. Kacsacsőrök közt van a tag neve, és a záróelemben az első kacsacsőr után van egy /. De vannak olyan tagek is, aminek nincs záróeleme, mint pl. a link tag.
 
