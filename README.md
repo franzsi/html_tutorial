@@ -13,7 +13,7 @@ Az új fájl.txt-re ekkor nyomj két lassú bal kattintást, vagy egy jobbklikk+
 Ezután csinálj egy másik fájlt is, és nevezd el style.css-nek.
 
 
-##html fájl tartalma
+## html fájl tartalma
 
 A html fájlban ennek mindenképp benne kell lennie:
 
@@ -37,7 +37,7 @@ Próbáld meg, hogy a <h1></h1> közé beírsz bármit, elmented a fájlt, és u
 
 A <h1></h1> tag egy főcím tag, ezért nagy betűmérettel látható, amit a tagek közé írtál.
 
-##css fájl tartalma
+## css fájl tartalma
 
 Most nyisd meg a style.css-t, és írd bele ezt:
 
