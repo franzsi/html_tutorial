@@ -43,9 +43,11 @@ A <h1></h1> tag egy főcím tag, ezért nagy betűmérettel látható, amit a ta
 
 Most nyisd meg a style.css-t, és írd bele ezt:
 
+```html
 body {
   background-color: pink;
 }
+```
 
 Mentés és az oldal frissítése után láthatod, hogy a body (azaz az egész látható oldal) háttere rózsaszín lett. Próbáld ki pink helyett még milyen színek vannak. 
 
@@ -55,20 +57,26 @@ Ezen a linken található egy színválasztó alkalmazás. Próbáld meg, mi tö
 
 A .css fájl stíluslap fájl, ebben definiálod a különböző html elemek viselkedését és kinézetét. A body { ... } után írd ezt: 
 
+```html
 h1 {
   color: blue;
 }
+```
 
 Ments és frissíts. Az előző linken található színválasztó segítségével használhatsz tetszőleges színt.
 A color: blue; alá írd ezt, ments és frissíts:
 
+```html
 text-align: center;
+```
 
 Próbáld ki, mi történik, ha "center" helyett "right"-ot írsz!
 
 A text-align tulajdonság alá írt ezt- egy px egy pixelt jelent. Próbálj ki különböző méreteket.
 
+```html
 font-size: 100px;
+```
 
 Vége az első órának;)
 
