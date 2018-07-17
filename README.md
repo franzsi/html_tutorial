@@ -17,13 +17,13 @@ Ezután csinálj egy másik fájlt is, és nevezd el style.css-nek.
 
 A html fájlban ennek mindenképp benne kell lennie:
 
-  <!DOCTYPE html>
-  <head>
-    <link rel="stylesheet" href="./style.css">  
-  </head>
-  <body>
-    <h1></h1>
-  </body>
+<!DOCTYPE html>
+<head>
+  <link rel="stylesheet" href="./style.css">  
+</head>
+<body>
+  <h1></h1>
+</body>
 
 A html tagekről tudni kell, hogy általában van egy nyitó, és egy záróelem. Kacsacsőrök közt van a tag neve, és a záróelemben az első kacsacsőr után van egy /. De vannak olyan tagek is, aminek nincs záróeleme, mint pl. a link tag.
 
@@ -41,9 +41,9 @@ A <h1></h1> tag egy főcím tag, ezért nagy betűmérettel látható, amit a ta
 
 Most nyisd meg a style.css-t, és írd bele ezt:
 
-  body {
-    background-color: pink;
-  }
+body {
+  background-color: pink;
+}
 
 Mentés és az oldal frissítése után láthatod, hogy a body (azaz az egész látható oldal) háttere rózsaszín lett. Próbáld ki pink helyett még milyen színek vannak. 
 
@@ -53,14 +53,14 @@ Ezen a linken található egy színválasztó alkalmazás. Próbáld meg, mi tö
 
 A .css fájl stíluslap fájl, ebben definiálod a különböző html elemek viselkedését és kinézetét. A body { ... } után írd ezt: 
 
-  h1 {
-    color: blue;
-  }
+h1 {
+  color: blue;
+}
 
 Ments és frissíts. Az előző linken található színválasztó segítségével használhatsz tetszőleges színt.
 A color: blue; alá írd ezt, ments és frissíts:
 
-  text-align: center;
+text-align: center;
 
 Próbáld ki, mi történik, ha "center" helyett "right"-ot írsz!
 
