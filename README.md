@@ -51,7 +51,7 @@ body {
 
 Mentés és az oldal frissítése után láthatod, hogy a body (azaz az egész látható oldal) háttere rózsaszín lett. Próbáld ki pink helyett még milyen színek vannak. 
 
-https://www.google.com/search?safe=off&client=ubuntu&hs=5qE&channel=fs&ei=ZFJOW-mfKsaakwXWx5vIDg&q=color+code+picker&oq=color+code+picker&gs_l=psy-ab.3..0i7i30k1l2j0i67k1j0i7i30k1l7.3792.3792.0.4090.1.1.0.0.0.0.124.124.0j1.1.0....0...1c..64.psy-ab..0.1.122....0.eIupfALDP88
+https://www.google.com/search?q=html+color+picker&oq=html+color+picker&aqs=chrome.0.69i59j69i60l2j0l3.1917j0j4&sourceid=chrome&ie=UTF-8
 
 Ezen a linken található egy színválasztó alkalmazás. Próbáld meg, mi történik, ha tetszőles színkódot (#-tel együtt) másolsz a "background-color:" után.
 
